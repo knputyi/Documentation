@@ -8,7 +8,7 @@ OpenHD uses off-the-shelf Wi-Fi adapters available for purchase online, however 
 
 High definition video, 2-way UAV telemetry, audio, and RC control signals can all be sent over a single transmission channel.
 
-A multi-platform [Open.HD app ](https://github.com/OpenHD/QOpenHD/releases)is available for live video with a customizable OSD.
+A multi-platform [QOpen.HD app ](https://github.com/OpenHD/QOpenHD/releases)is available for live video with a customizable OSD.
 
 **For support and further reading:**
 
