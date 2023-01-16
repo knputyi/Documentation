@@ -6,7 +6,7 @@ With 2.2-evo we removed the complex config files. Everything is set up in QOpenh
 
 #### What is the minimum hardware I need to try this?
 
-Two Raspberry Pis, two supported WiFi adapters, one Pi cam (Or CSI-HDMI adapter), and 2 good quality (preferably industrial micro SD cards).
+Two Raspberry Pis, two supported WiFi adapters, one Pi cam (Or CSI-HDMI adapter), and 2 good quality (preferably industrial) micro SD cards.
 
 {% hint style="warning" %}
 Please read the rest of the documentation and do your homework when you make your purchases! Only specific WiFi cards will work due to the unique system requirements. Good results are only achieved with proper power supply and wiring!
