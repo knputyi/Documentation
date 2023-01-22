@@ -35,6 +35,8 @@ Insert your SD card into the card reader, and select it from the "Choose storage
 Step 5:
 Click on "Settings" on the lower right corner and select either air or ground (depending weather you want to flash an air or ground image). You cannot skip this step. For a functional OpenHD setup, you need to flash one Air unit (select air) and one Ground unit (select ground).
 
+@@@@@@@  Hit the "SAVE" button on the bottom of the window   @@@@@@@
+
 Step 6:
 Flash your image by clicking on "Write". This might take a while. 
 
