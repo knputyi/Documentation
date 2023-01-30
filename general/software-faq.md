@@ -13,7 +13,7 @@ On the Ground QOpenHD will start automatically and give you a GUI. If not you ma
 
 #### I don't want to use the ImageWriter, what do I need to do.
 
-In general the image writer writes the image, mounts it and writes a file (air.txt) or (ground.txt) into the folder openhd. You just need to do thsi manually without the ImageWriter. In the future there may be a lot more functionality coming, which then just needs to be done manually.
+In general the image writer writes the image, mounts it and writes a file (air.txt) or (ground.txt) into the folder openhd. You just need to do this manually if not the ImageWriter was used to flash your sd-card. In the future there may be a lot more functionality coming, which then just needs to be done manually.
 
 #### I can't see the wifi-hotspot
 
