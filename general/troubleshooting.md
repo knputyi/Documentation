@@ -33,9 +33,9 @@ Select the right overlay and check if your csi-cable is connected correctly.
 
 #### I can't find the settings for my libcamera camera
 
-Since Libcamerasrc doesn't have any support for settings, yet you can't change picture settings like exposure,rotation,.. in it. When they become available we're integrating them.
+Since Libcamerasrc doesn't have any support for settings yet, you can't change picture settings like exposure,rotation,.. in it. When they will become available we're integrating them.
 
-#### Where are the extended settings for my veye camera
+#### Where are the extended settings for my veye camera ?
 
 We don't have extended i2c settings for veye cameras, since veye didn't integrate them in standart v4l2 controls.
 
