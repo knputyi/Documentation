@@ -22,7 +22,7 @@ The latest [Evo release](https://github.com/OpenHD/OpenHD/releases) of OpenHD in
 * The platform offers dual camera support for a variety of [camera types](../hardware/cameras.md), including libcamera, veye, raspivid, USB, thermal, and unmanaged cameras.
 
 ### Custom Camera Integration
-* OpenHD is developing[custom cameras](https://www.arducam.com/openhd/) together with arducam, specifically designed for the platform, expanding hardware choices for our users.
+* OpenHD is developing [custom cameras](https://www.arducam.com/openhd/) together with arducam, specifically designed for the platform, expanding hardware choices for our users.
 
 ### Two-Way Settings
 * Experience real two-way communication settings, enhancing control and customization options.
